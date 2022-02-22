@@ -38,8 +38,8 @@ this is some text in markdown-test
 
 this is some text in markdown-test
 
-<a id="aht" />
-## another heading here
+
+## another heading here <a id="aht" />
 
 this is some text in markdown-test
 
