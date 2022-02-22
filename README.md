@@ -1,6 +1,6 @@
 # markdown-test
 
-- [an example](#another-heading-here)
+- [jump to test heading](#ah2)
 
 
 ## a heading here 
